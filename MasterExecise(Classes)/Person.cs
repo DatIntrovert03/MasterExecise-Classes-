@@ -29,7 +29,7 @@ public class Person
   public Person(string name, int age)
   {
     Name = name;
-    Age = age;
+    Age = ag;
   }
   public void Greet()
   {
