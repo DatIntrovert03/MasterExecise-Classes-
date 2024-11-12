@@ -1,0 +1,14 @@
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).AssemblyInfoInputs.cache
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).AssemblyInfo.cs
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\bin\Debug\net8.0\MasterExecise(Classes).exe
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\bin\Debug\net8.0\MasterExecise(Classes).deps.json
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\bin\Debug\net8.0\MasterExecise(Classes).runtimeconfig.json
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\bin\Debug\net8.0\MasterExecise(Classes).dll
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\bin\Debug\net8.0\MasterExecise(Classes).pdb
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).dll
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\refint\MasterExecise(Classes).dll
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).pdb
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).genruntimeconfig.cache
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\ref\MasterExecise(Classes).dll
