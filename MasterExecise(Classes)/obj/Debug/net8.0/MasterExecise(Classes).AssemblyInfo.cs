@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterExecise(Classes)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b3de620755b325c5abe488d4d4f945b97e728e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterExecise(Classes)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterExecise(Classes)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

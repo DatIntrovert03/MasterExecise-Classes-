@@ -12,3 +12,4 @@ D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise
 D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).pdb
 D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).genruntimeconfig.cache
 D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\ref\MasterExecise(Classes).dll
+D:\Visual Studio Code\C# Masterclass course\MasterExecise(Classes)\MasterExecise(Classes)\obj\Debug\net8.0\MasterExecise(Classes).sourcelink.json
